@@ -1,0 +1,157 @@
+D:\Univer\C#\Assignment3\DNP-Assignment3-Client\bin\Debug\netcoreapp3.1\adults.json
+D:\Univer\C#\Assignment3\DNP-Assignment3-Client\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Univer\C#\Assignment3\DNP-Assignment3-Client\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Univer\C#\Assignment3\DNP-Assignment3-Client\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\Univer\C#\Assignment3\DNP-Assignment3-Client\bin\Debug\netcoreapp3.1\DNP-Assignment3-Client.exe
+D:\Univer\C#\Assignment3\DNP-Assignment3-Client\bin\Debug\netcoreapp3.1\DNP-Assignment3-Client.deps.json
+D:\Univer\C#\Assignment3\DNP-Assignment3-Client\bin\Debug\netcoreapp3.1\DNP-Assignment3-Client.runtimeconfig.json
+D:\Univer\C#\Assignment3\DNP-Assignment3-Client\bin\Debug\netcoreapp3.1\DNP-Assignment3-Client.runtimeconfig.dev.json
+D:\Univer\C#\Assignment3\DNP-Assignment3-Client\bin\Debug\netcoreapp3.1\DNP-Assignment3-Client.dll
+D:\Univer\C#\Assignment3\DNP-Assignment3-Client\bin\Debug\netcoreapp3.1\DNP-Assignment3-Client.pdb
+D:\Univer\C#\Assignment3\DNP-Assignment3-Client\bin\Debug\netcoreapp3.1\DNP-Assignment3-Client.Views.dll
+D:\Univer\C#\Assignment3\DNP-Assignment3-Client\bin\Debug\netcoreapp3.1\DNP-Assignment3-Client.Views.pdb
+D:\Univer\C#\Assignment3\DNP-Assignment3-Client\obj\Debug\netcoreapp3.1\DNP-Assignment3-Client.csprojAssemblyReference.cache
+D:\Univer\C#\Assignment3\DNP-Assignment3-Client\obj\Debug\netcoreapp3.1\DNP-Assignment3-Client.AssemblyInfoInputs.cache
+D:\Univer\C#\Assignment3\DNP-Assignment3-Client\obj\Debug\netcoreapp3.1\DNP-Assignment3-Client.AssemblyInfo.cs
+D:\Univer\C#\Assignment3\DNP-Assignment3-Client\obj\Debug\netcoreapp3.1\DNP-Assignment3-Client.csproj.CoreCompileInputs.cache
+D:\Univer\C#\Assignment3\DNP-Assignment3-Client\obj\Debug\netcoreapp3.1\DNP-Assignment3-Client.MvcApplicationPartsAssemblyInfo.cache
+D:\Univer\C#\Assignment3\DNP-Assignment3-Client\obj\Debug\netcoreapp3.1\DNP-Assignment3-Client.RazorComponent.input.cache
+D:\Univer\C#\Assignment3\DNP-Assignment3-Client\obj\Debug\netcoreapp3.1\RazorDeclaration\App.razor.g.cs
+D:\Univer\C#\Assignment3\DNP-Assignment3-Client\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\AddAdult.razor.g.cs
+D:\Univer\C#\Assignment3\DNP-Assignment3-Client\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\AdultList.razor.g.cs
+D:\Univer\C#\Assignment3\DNP-Assignment3-Client\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\Index.razor.g.cs
+D:\Univer\C#\Assignment3\DNP-Assignment3-Client\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\Login.razor.g.cs
+D:\Univer\C#\Assignment3\DNP-Assignment3-Client\obj\Debug\netcoreapp3.1\RazorDeclaration\Shared\MainLayout.razor.g.cs
+D:\Univer\C#\Assignment3\DNP-Assignment3-Client\obj\Debug\netcoreapp3.1\RazorDeclaration\Shared\NavMenu.razor.g.cs
+D:\Univer\C#\Assignment3\DNP-Assignment3-Client\obj\Debug\netcoreapp3.1\RazorDeclaration\Shared\SurveyPrompt.razor.g.cs
+D:\Univer\C#\Assignment3\DNP-Assignment3-Client\obj\Debug\netcoreapp3.1\RazorDeclaration\_Imports.razor.g.cs
+D:\Univer\C#\Assignment3\DNP-Assignment3-Client\obj\Debug\netcoreapp3.1\RazorDeclaration\DNP-Assignment3-Client.dll
+D:\Univer\C#\Assignment3\DNP-Assignment3-Client\obj\Debug\netcoreapp3.1\DNP-Assignment3-Client.TagHelpers.input.cache
+D:\Univer\C#\Assignment3\DNP-Assignment3-Client\obj\Debug\netcoreapp3.1\DNP-Assignment3-Client.TagHelpers.output.cache
+D:\Univer\C#\Assignment3\DNP-Assignment3-Client\obj\Debug\netcoreapp3.1\DNP-Assignment3-Client.RazorCoreGenerate.cache
+D:\Univer\C#\Assignment3\DNP-Assignment3-Client\obj\Debug\netcoreapp3.1\Razor\App.razor.g.cs
+D:\Univer\C#\Assignment3\DNP-Assignment3-Client\obj\Debug\netcoreapp3.1\Razor\Pages\AddAdult.razor.g.cs
+D:\Univer\C#\Assignment3\DNP-Assignment3-Client\obj\Debug\netcoreapp3.1\Razor\Pages\AdultList.razor.g.cs
+D:\Univer\C#\Assignment3\DNP-Assignment3-Client\obj\Debug\netcoreapp3.1\Razor\Pages\Index.razor.g.cs
+D:\Univer\C#\Assignment3\DNP-Assignment3-Client\obj\Debug\netcoreapp3.1\Razor\Pages\Login.razor.g.cs
+D:\Univer\C#\Assignment3\DNP-Assignment3-Client\obj\Debug\netcoreapp3.1\Razor\Shared\MainLayout.razor.g.cs
+D:\Univer\C#\Assignment3\DNP-Assignment3-Client\obj\Debug\netcoreapp3.1\Razor\Shared\NavMenu.razor.g.cs
+D:\Univer\C#\Assignment3\DNP-Assignment3-Client\obj\Debug\netcoreapp3.1\Razor\Shared\SurveyPrompt.razor.g.cs
+D:\Univer\C#\Assignment3\DNP-Assignment3-Client\obj\Debug\netcoreapp3.1\Razor\_Imports.razor.g.cs
+D:\Univer\C#\Assignment3\DNP-Assignment3-Client\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
+D:\Univer\C#\Assignment3\DNP-Assignment3-Client\obj\Debug\netcoreapp3.1\Razor\Pages\_Host.cshtml.g.cs
+D:\Univer\C#\Assignment3\DNP-Assignment3-Client\obj\Debug\netcoreapp3.1\DNP-Assignment3-Client.RazorAssemblyInfo.cache
+D:\Univer\C#\Assignment3\DNP-Assignment3-Client\obj\Debug\netcoreapp3.1\DNP-Assignment3-Client.RazorAssemblyInfo.cs
+D:\Univer\C#\Assignment3\DNP-Assignment3-Client\obj\Debug\netcoreapp3.1\DNP-Assignment3-Client.RazorTargetAssemblyInfo.cache
+D:\Univer\C#\Assignment3\DNP-Assignment3-Client\obj\Debug\netcoreapp3.1\DNP-Assignment3-Client.RazorTargetAssemblyInfo.cs
+D:\Univer\C#\Assignment3\DNP-Assignment3-Client\obj\Debug\netcoreapp3.1\DNP-Assignment3-Client.Views.pdb
+D:\Univer\C#\Assignment3\DNP-Assignment3-Client\obj\Debug\netcoreapp3.1\staticwebassets\DNP-Assignment3-Client.StaticWebAssets.Manifest.cache
+D:\Univer\C#\Assignment3\DNP-Assignment3-Client\obj\Debug\netcoreapp3.1\staticwebassets\DNP-Assignment3-Client.StaticWebAssets.xml
+D:\Univer\C#\Assignment3\DNP-Assignment3-Client\obj\Debug\netcoreapp3.1\DNP-Assignment3-Client.dll
+D:\Univer\C#\Assignment3\DNP-Assignment3-Client\obj\Debug\netcoreapp3.1\DNP-Assignment3-Client.pdb
+D:\Univer\C#\Assignment3\DNP-Assignment3-Client\obj\Debug\netcoreapp3.1\DNP-Assignment3-Client.genruntimeconfig.cache
+D:\Univer\C#\Assignment3\DNP-Assignment3-Client\obj\Debug\netcoreapp3.1\DNP-Assignment3-Client.csproj.CopyComplete
+D:\Univer\C#\CLIENT ASSIGNMENT4\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Univer\C#\CLIENT ASSIGNMENT4\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Univer\C#\CLIENT ASSIGNMENT4\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\Univer\C#\CLIENT ASSIGNMENT4\bin\Debug\netcoreapp3.1\DNP-Assignment3-Client.exe
+D:\Univer\C#\CLIENT ASSIGNMENT4\bin\Debug\netcoreapp3.1\DNP-Assignment3-Client.deps.json
+D:\Univer\C#\CLIENT ASSIGNMENT4\bin\Debug\netcoreapp3.1\DNP-Assignment3-Client.runtimeconfig.json
+D:\Univer\C#\CLIENT ASSIGNMENT4\bin\Debug\netcoreapp3.1\DNP-Assignment3-Client.runtimeconfig.dev.json
+D:\Univer\C#\CLIENT ASSIGNMENT4\bin\Debug\netcoreapp3.1\DNP-Assignment3-Client.dll
+D:\Univer\C#\CLIENT ASSIGNMENT4\bin\Debug\netcoreapp3.1\DNP-Assignment3-Client.pdb
+D:\Univer\C#\CLIENT ASSIGNMENT4\bin\Debug\netcoreapp3.1\DNP-Assignment3-Client.Views.dll
+D:\Univer\C#\CLIENT ASSIGNMENT4\bin\Debug\netcoreapp3.1\DNP-Assignment3-Client.Views.pdb
+D:\Univer\C#\CLIENT ASSIGNMENT4\obj\Debug\netcoreapp3.1\DNP-Assignment3-Client.csprojAssemblyReference.cache
+D:\Univer\C#\CLIENT ASSIGNMENT4\obj\Debug\netcoreapp3.1\DNP-Assignment3-Client.AssemblyInfoInputs.cache
+D:\Univer\C#\CLIENT ASSIGNMENT4\obj\Debug\netcoreapp3.1\DNP-Assignment3-Client.AssemblyInfo.cs
+D:\Univer\C#\CLIENT ASSIGNMENT4\obj\Debug\netcoreapp3.1\DNP-Assignment3-Client.csproj.CoreCompileInputs.cache
+D:\Univer\C#\CLIENT ASSIGNMENT4\obj\Debug\netcoreapp3.1\DNP-Assignment3-Client.MvcApplicationPartsAssemblyInfo.cache
+D:\Univer\C#\CLIENT ASSIGNMENT4\obj\Debug\netcoreapp3.1\DNP-Assignment3-Client.RazorComponent.input.cache
+D:\Univer\C#\CLIENT ASSIGNMENT4\obj\Debug\netcoreapp3.1\RazorDeclaration\App.razor.g.cs
+D:\Univer\C#\CLIENT ASSIGNMENT4\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\AddAdult.razor.g.cs
+D:\Univer\C#\CLIENT ASSIGNMENT4\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\AdultList.razor.g.cs
+D:\Univer\C#\CLIENT ASSIGNMENT4\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\Index.razor.g.cs
+D:\Univer\C#\CLIENT ASSIGNMENT4\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\Login.razor.g.cs
+D:\Univer\C#\CLIENT ASSIGNMENT4\obj\Debug\netcoreapp3.1\RazorDeclaration\Shared\MainLayout.razor.g.cs
+D:\Univer\C#\CLIENT ASSIGNMENT4\obj\Debug\netcoreapp3.1\RazorDeclaration\Shared\NavMenu.razor.g.cs
+D:\Univer\C#\CLIENT ASSIGNMENT4\obj\Debug\netcoreapp3.1\RazorDeclaration\Shared\SurveyPrompt.razor.g.cs
+D:\Univer\C#\CLIENT ASSIGNMENT4\obj\Debug\netcoreapp3.1\RazorDeclaration\_Imports.razor.g.cs
+D:\Univer\C#\CLIENT ASSIGNMENT4\obj\Debug\netcoreapp3.1\RazorDeclaration\DNP-Assignment3-Client.dll
+D:\Univer\C#\CLIENT ASSIGNMENT4\obj\Debug\netcoreapp3.1\DNP-Assignment3-Client.TagHelpers.input.cache
+D:\Univer\C#\CLIENT ASSIGNMENT4\obj\Debug\netcoreapp3.1\DNP-Assignment3-Client.TagHelpers.output.cache
+D:\Univer\C#\CLIENT ASSIGNMENT4\obj\Debug\netcoreapp3.1\DNP-Assignment3-Client.RazorCoreGenerate.cache
+D:\Univer\C#\CLIENT ASSIGNMENT4\obj\Debug\netcoreapp3.1\Razor\App.razor.g.cs
+D:\Univer\C#\CLIENT ASSIGNMENT4\obj\Debug\netcoreapp3.1\Razor\Pages\AddAdult.razor.g.cs
+D:\Univer\C#\CLIENT ASSIGNMENT4\obj\Debug\netcoreapp3.1\Razor\Pages\AdultList.razor.g.cs
+D:\Univer\C#\CLIENT ASSIGNMENT4\obj\Debug\netcoreapp3.1\Razor\Pages\Index.razor.g.cs
+D:\Univer\C#\CLIENT ASSIGNMENT4\obj\Debug\netcoreapp3.1\Razor\Pages\Login.razor.g.cs
+D:\Univer\C#\CLIENT ASSIGNMENT4\obj\Debug\netcoreapp3.1\Razor\Shared\MainLayout.razor.g.cs
+D:\Univer\C#\CLIENT ASSIGNMENT4\obj\Debug\netcoreapp3.1\Razor\Shared\NavMenu.razor.g.cs
+D:\Univer\C#\CLIENT ASSIGNMENT4\obj\Debug\netcoreapp3.1\Razor\Shared\SurveyPrompt.razor.g.cs
+D:\Univer\C#\CLIENT ASSIGNMENT4\obj\Debug\netcoreapp3.1\Razor\_Imports.razor.g.cs
+D:\Univer\C#\CLIENT ASSIGNMENT4\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
+D:\Univer\C#\CLIENT ASSIGNMENT4\obj\Debug\netcoreapp3.1\Razor\Pages\_Host.cshtml.g.cs
+D:\Univer\C#\CLIENT ASSIGNMENT4\obj\Debug\netcoreapp3.1\DNP-Assignment3-Client.RazorAssemblyInfo.cache
+D:\Univer\C#\CLIENT ASSIGNMENT4\obj\Debug\netcoreapp3.1\DNP-Assignment3-Client.RazorAssemblyInfo.cs
+D:\Univer\C#\CLIENT ASSIGNMENT4\obj\Debug\netcoreapp3.1\DNP-Assignment3-Client.RazorTargetAssemblyInfo.cache
+D:\Univer\C#\CLIENT ASSIGNMENT4\obj\Debug\netcoreapp3.1\DNP-Assignment3-Client.RazorTargetAssemblyInfo.cs
+D:\Univer\C#\CLIENT ASSIGNMENT4\obj\Debug\netcoreapp3.1\DNP-Assignment3-Client.Views.pdb
+D:\Univer\C#\CLIENT ASSIGNMENT4\obj\Debug\netcoreapp3.1\staticwebassets\DNP-Assignment3-Client.StaticWebAssets.Manifest.cache
+D:\Univer\C#\CLIENT ASSIGNMENT4\obj\Debug\netcoreapp3.1\staticwebassets\DNP-Assignment3-Client.StaticWebAssets.xml
+D:\Univer\C#\CLIENT ASSIGNMENT4\obj\Debug\netcoreapp3.1\DNP-Assignment3-Client.dll
+D:\Univer\C#\CLIENT ASSIGNMENT4\obj\Debug\netcoreapp3.1\DNP-Assignment3-Client.pdb
+D:\Univer\C#\CLIENT ASSIGNMENT4\obj\Debug\netcoreapp3.1\DNP-Assignment3-Client.genruntimeconfig.cache
+D:\Univer\C#\CLIENT ASSIGNMENT4\obj\Debug\netcoreapp3.1\DNP-Assignment3-Client.csproj.CopyComplete
+D:\Univer\C#\Assignment 4 Client\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Univer\C#\Assignment 4 Client\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Univer\C#\Assignment 4 Client\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\Univer\C#\Assignment 4 Client\bin\Debug\netcoreapp3.1\DNP-Assignment3-Client.exe
+D:\Univer\C#\Assignment 4 Client\bin\Debug\netcoreapp3.1\DNP-Assignment3-Client.deps.json
+D:\Univer\C#\Assignment 4 Client\bin\Debug\netcoreapp3.1\DNP-Assignment3-Client.runtimeconfig.json
+D:\Univer\C#\Assignment 4 Client\bin\Debug\netcoreapp3.1\DNP-Assignment3-Client.runtimeconfig.dev.json
+D:\Univer\C#\Assignment 4 Client\bin\Debug\netcoreapp3.1\DNP-Assignment3-Client.dll
+D:\Univer\C#\Assignment 4 Client\bin\Debug\netcoreapp3.1\DNP-Assignment3-Client.pdb
+D:\Univer\C#\Assignment 4 Client\bin\Debug\netcoreapp3.1\DNP-Assignment3-Client.Views.dll
+D:\Univer\C#\Assignment 4 Client\bin\Debug\netcoreapp3.1\DNP-Assignment3-Client.Views.pdb
+D:\Univer\C#\Assignment 4 Client\obj\Debug\netcoreapp3.1\DNP-Assignment3-Client.csprojAssemblyReference.cache
+D:\Univer\C#\Assignment 4 Client\obj\Debug\netcoreapp3.1\DNP-Assignment3-Client.AssemblyInfoInputs.cache
+D:\Univer\C#\Assignment 4 Client\obj\Debug\netcoreapp3.1\DNP-Assignment3-Client.AssemblyInfo.cs
+D:\Univer\C#\Assignment 4 Client\obj\Debug\netcoreapp3.1\DNP-Assignment3-Client.csproj.CoreCompileInputs.cache
+D:\Univer\C#\Assignment 4 Client\obj\Debug\netcoreapp3.1\DNP-Assignment3-Client.MvcApplicationPartsAssemblyInfo.cache
+D:\Univer\C#\Assignment 4 Client\obj\Debug\netcoreapp3.1\DNP-Assignment3-Client.RazorComponent.input.cache
+D:\Univer\C#\Assignment 4 Client\obj\Debug\netcoreapp3.1\RazorDeclaration\App.razor.g.cs
+D:\Univer\C#\Assignment 4 Client\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\AddAdult.razor.g.cs
+D:\Univer\C#\Assignment 4 Client\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\AdultList.razor.g.cs
+D:\Univer\C#\Assignment 4 Client\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\Index.razor.g.cs
+D:\Univer\C#\Assignment 4 Client\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\Login.razor.g.cs
+D:\Univer\C#\Assignment 4 Client\obj\Debug\netcoreapp3.1\RazorDeclaration\Shared\MainLayout.razor.g.cs
+D:\Univer\C#\Assignment 4 Client\obj\Debug\netcoreapp3.1\RazorDeclaration\Shared\NavMenu.razor.g.cs
+D:\Univer\C#\Assignment 4 Client\obj\Debug\netcoreapp3.1\RazorDeclaration\Shared\SurveyPrompt.razor.g.cs
+D:\Univer\C#\Assignment 4 Client\obj\Debug\netcoreapp3.1\RazorDeclaration\_Imports.razor.g.cs
+D:\Univer\C#\Assignment 4 Client\obj\Debug\netcoreapp3.1\RazorDeclaration\DNP-Assignment3-Client.dll
+D:\Univer\C#\Assignment 4 Client\obj\Debug\netcoreapp3.1\DNP-Assignment3-Client.TagHelpers.input.cache
+D:\Univer\C#\Assignment 4 Client\obj\Debug\netcoreapp3.1\DNP-Assignment3-Client.TagHelpers.output.cache
+D:\Univer\C#\Assignment 4 Client\obj\Debug\netcoreapp3.1\DNP-Assignment3-Client.RazorCoreGenerate.cache
+D:\Univer\C#\Assignment 4 Client\obj\Debug\netcoreapp3.1\Razor\App.razor.g.cs
+D:\Univer\C#\Assignment 4 Client\obj\Debug\netcoreapp3.1\Razor\Pages\AddAdult.razor.g.cs
+D:\Univer\C#\Assignment 4 Client\obj\Debug\netcoreapp3.1\Razor\Pages\AdultList.razor.g.cs
+D:\Univer\C#\Assignment 4 Client\obj\Debug\netcoreapp3.1\Razor\Pages\Index.razor.g.cs
+D:\Univer\C#\Assignment 4 Client\obj\Debug\netcoreapp3.1\Razor\Pages\Login.razor.g.cs
+D:\Univer\C#\Assignment 4 Client\obj\Debug\netcoreapp3.1\Razor\Shared\MainLayout.razor.g.cs
+D:\Univer\C#\Assignment 4 Client\obj\Debug\netcoreapp3.1\Razor\Shared\NavMenu.razor.g.cs
+D:\Univer\C#\Assignment 4 Client\obj\Debug\netcoreapp3.1\Razor\Shared\SurveyPrompt.razor.g.cs
+D:\Univer\C#\Assignment 4 Client\obj\Debug\netcoreapp3.1\Razor\_Imports.razor.g.cs
+D:\Univer\C#\Assignment 4 Client\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
+D:\Univer\C#\Assignment 4 Client\obj\Debug\netcoreapp3.1\Razor\Pages\_Host.cshtml.g.cs
+D:\Univer\C#\Assignment 4 Client\obj\Debug\netcoreapp3.1\DNP-Assignment3-Client.RazorAssemblyInfo.cache
+D:\Univer\C#\Assignment 4 Client\obj\Debug\netcoreapp3.1\DNP-Assignment3-Client.RazorAssemblyInfo.cs
+D:\Univer\C#\Assignment 4 Client\obj\Debug\netcoreapp3.1\DNP-Assignment3-Client.RazorTargetAssemblyInfo.cache
+D:\Univer\C#\Assignment 4 Client\obj\Debug\netcoreapp3.1\DNP-Assignment3-Client.RazorTargetAssemblyInfo.cs
+D:\Univer\C#\Assignment 4 Client\obj\Debug\netcoreapp3.1\DNP-Assignment3-Client.Views.pdb
+D:\Univer\C#\Assignment 4 Client\obj\Debug\netcoreapp3.1\staticwebassets\DNP-Assignment3-Client.StaticWebAssets.Manifest.cache
+D:\Univer\C#\Assignment 4 Client\obj\Debug\netcoreapp3.1\staticwebassets\DNP-Assignment3-Client.StaticWebAssets.xml
+D:\Univer\C#\Assignment 4 Client\obj\Debug\netcoreapp3.1\DNP-Assignment3-Client.dll
+D:\Univer\C#\Assignment 4 Client\obj\Debug\netcoreapp3.1\DNP-Assignment3-Client.pdb
+D:\Univer\C#\Assignment 4 Client\obj\Debug\netcoreapp3.1\DNP-Assignment3-Client.genruntimeconfig.cache
+D:\Univer\C#\Assignment 4 Client\obj\Debug\netcoreapp3.1\DNP-Assignment3-Client.csproj.CopyComplete
